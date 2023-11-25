@@ -73,3 +73,7 @@ echo "<br>";
  * Fullstack development 
  */
 
+// Constants
+
+define("name","Aiman Shafi");
+echo name;
